@@ -1,0 +1,3 @@
+inputString=110111011
+startingState=A
+finalState=C
